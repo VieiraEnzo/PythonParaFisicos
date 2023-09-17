@@ -1,0 +1,7 @@
+1. Crie um programa que virifique e printe e paridade de um número
+2. Crie um programa para qualquer um numero qualquer, se ele for igual a 10, devemos somar 3, e se não multiplicar ele por 2
+3. Crie um programa que baseado na ideade de todos os alunos de uma sala, printe todas as idades não repetidadas 
+4. Crie um programa que guarde a altura de todos os alunos em uma lista, se o 3 aluno tiver altura maior ou igual a 1.82m printe-a
+5. Cria um programa que guarda a informação se a pessoa quer sorrir ou se a pessoa quer brincar. Se ela quiser sorrir printe "é com o patati",
+se ela quiser brincar, printe 'é com o patata' e se quiser sorrir e brincar printe 'patati, patata'
+6. Desafio da OBI
