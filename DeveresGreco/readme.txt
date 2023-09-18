@@ -1,0 +1,1 @@
+Oie sou Grecola, sou fisico buabua
