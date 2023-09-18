@@ -1,0 +1,10 @@
+print("hello guigo")
+
+print('Bom dia. Cual número?')
+
+a = int(input())
+
+if(a%2 == 0):
+    print("Esse dai é par")
+else:
+    print("Esse dai é impar")
