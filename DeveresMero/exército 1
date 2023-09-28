@@ -8,3 +8,21 @@ if(a%2 == 0):
     print("Esse dai é par")
 else:
     print("Esse dai é impar")
+
+
+
+
+# 2. Crie um programa para qualquer um numero qualquer, se ele for igual a 10, devemos somar 3, e se não multiplicar ele por 2 #
+
+print("Bom dia. Quale?")
+
+n = int(input())
+
+if(n==10):
+    print(n+3)
+else: 
+    print(n*2)
+
+
+
+
