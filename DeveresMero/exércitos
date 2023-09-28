@@ -26,3 +26,18 @@ else:
 
 
 
+# 3. Crie um programa que baseado na ideade de todos os alunos de uma sala, printe todas as idades não repetidadas  #
+
+print('me diz a idade da galera toda ai. de um em um. cuando acabar, joga um 0 ai.')
+
+a = []
+
+k = int(input())
+while k != 0:
+    a.append(k)
+    print("mais um.")
+    k = int(input())
+    a.append(k)
+else: 
+    a.remove(a[-1])
+    print(set(a))
