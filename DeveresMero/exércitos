@@ -1,4 +1,4 @@
-print("hello guigo")
+# 1. Crie um programa que virifique e printe e paridade de um número
 
 print('Bom dia. Cual número?')
 
@@ -41,3 +41,25 @@ while k != 0:
 else: 
     a.remove(a[-1])
     print(set(a))
+
+
+
+# 4. Crie um programa que guarde a altura de todos os alunos em uma lista, se o 3 aluno tiver altura maior ou igual a 1.82m printe-a
+
+print("primeiramente, quantos malandros são?")
+
+a = []
+i = float(input())
+
+print('fala a altura de 1 em 1 ai então, em metro.')
+while len(a) < i:
+    k = float(input())
+    a.append(k)
+else:
+    if a[2] >= 1.82:
+        print('Parabéns. A altura do cara é', a[2], "!!!!!!")
+    else:
+        print("faz o L anão de bosta")
+
+
+
