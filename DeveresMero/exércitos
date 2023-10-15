@@ -61,5 +61,16 @@ else:
     else:
         print("faz o L anão de bosta")
 
+#OBI
 
+N = int(input("Quantas pessoas tem ?"))
+I = int(input("Onde o malandro tava antes de sair?"))
+P = int(input("Quantas palmas foram batidas?"))
+
+k = (I+P)%N
+
+if k == 0:
+	print(N)
+else:
+	print(k)
 
